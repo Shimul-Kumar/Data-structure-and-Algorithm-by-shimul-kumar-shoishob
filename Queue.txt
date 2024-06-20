@@ -1,0 +1,22 @@
+
+
+Queue is a line that you can imagine 
+ Queue follows one FIFO 
+                
+                F - first 
+                I - in
+                F - first
+                O - out
+
+    Queue must have 2 methods
+    1. enqueue( item ); // add item to Queue
+
+    2. dequeue(); // return and remove data from front
+
+
+    << cash Counter >>     1.A  2.B  3.C  4.D
+
+            1. A  ----- front
+            4. D  ----- rear
+
+            

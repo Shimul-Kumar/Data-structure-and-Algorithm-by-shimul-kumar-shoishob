@@ -1,0 +1,17 @@
+
+
+3 methods are usually used in stack
+
+1. push(item) // add item on the stack
+2. pop() // return last value and delete it 
+3. peek() // only return value but don't delete it 
+
+stack follows LIFO
+         L - last
+         I - in
+         F - first
+         O - out
+
+here we use array as a stack::
+
+
