@@ -16,6 +16,7 @@ void enqueue(int item)
         printf("Exception, The Queue is full.\n");
     }
 }
+
 // normal dequeue
 int normalDequeue()
 {
@@ -56,6 +57,8 @@ int main()
     printf("return item from dequeue: %d \n", dequeue());
     enqueue(50);
     printf("return item from showItem: %d \n", showItem());
+
+    
 
 
 
